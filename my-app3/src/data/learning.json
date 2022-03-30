@@ -1,0 +1,20 @@
+[
+    {
+    "id":"1",
+    "content":"As mokausi HTML",
+    "img":"https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?w=730&crop=1",
+    "status":"Mokausi"
+    },
+    {
+    "id":"2",
+    "content":"As mokausi CSS",
+    "img":"https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?w=730&crop=1",
+    "status":"Ismokau"
+    },
+    {
+    "id":"3",
+    "content":"As mokausi JavaScript",
+    "img":"https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg?w=730&crop=1",
+    "status":"false"
+    }
+]
